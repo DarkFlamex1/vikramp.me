@@ -1,0 +1,27 @@
+{
+  "name": "vikramp.me",
+  "version": "1.0.0",
+  "description": "Personal Website for vikramp.me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkFlamex1/vikramp.me.git"
+  },
+  "keywords": [
+    "html",
+    "js",
+    "website"
+  ],
+  "author": "Vikram Peddinti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkFlamex1/vikramp.me/issues"
+  },
+  "homepage": "https://github.com/DarkFlamex1/vikramp.me#readme",
+  "dependencies": {
+    "local-web-server": "^2.6.0"
+  }
+}
